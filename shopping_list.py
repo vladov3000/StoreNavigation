@@ -1,5 +1,6 @@
 from typing import List, Dict
-from shopping_item import ShoppingItem, default_testcases
+from shopping_item import ShoppingItem
+from test_cases import default_testcases
 
 class ShoppingList:
 

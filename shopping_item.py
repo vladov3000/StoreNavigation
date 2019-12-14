@@ -1,11 +1,6 @@
 from typing import Dict, List
+from test_cases import default_testcases
 
-default_testcases = {
-    "a": [3, 2],
-    "imreallylong---------------": [3.5, 2],
-    "hello world": [3, 2.5],
-    ":)": [3.5, 2.5]
-}
 
 class ShoppingItem:
     """ A Shopping Item represents one item on the shopping list
